@@ -1,0 +1,14 @@
+Inputs
+1	AILE
+2	ELEV
+3	THRO
+4	RUDD
+5	GEAR
+6	
+7
+8	AUX1
+
+Outputs
+1	Wing left
+2	Wing right
+3	Motor
